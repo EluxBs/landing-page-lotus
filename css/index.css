@@ -154,9 +154,7 @@ body {
     padding: 1em;
 }
 
-
-
-/*media queries*/
+/*media queries - max-width: 491px*/
 @media (max-width: 491px) {
     body{
         background-image: url("../img/bg-primary-491.png");
@@ -198,6 +196,7 @@ body {
         list-style: none;
         font-size: 1.10rem;
         padding: .5rem; 
+        
     }
 
     .container-lotus{
@@ -213,13 +212,8 @@ body {
         opacity: 0.8;
     }
 
-
-    
     .btn-lotus{
         display: flex;
         font-size: 1.5em;
     }
-
-
-
 }
