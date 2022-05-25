@@ -216,10 +216,13 @@ body {
         display: flex;
         font-size: 1.5em;
     }
+}
 
+@media(max-width: 1200px){
     .description-secondary{
         font-size: 1.25em;
         text-align: center;
-        padding: 1em;
+        padding: 1em 2.5em;
     }
 }
+
