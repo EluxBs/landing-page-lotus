@@ -180,7 +180,6 @@ body {
 .section-primary{
     display: flex;
     flex-direction: row;
-    flex-wrap: wrap;
     background-color: #d7e9f0;
 }
 
@@ -212,7 +211,6 @@ body {
 .section-secondary{
     display: flex;
     flex-direction: row;
-    flex-wrap: wrap;
     background-color: #d7e9f0;
     margin-bottom: 4rem;
 }
@@ -300,6 +298,14 @@ body {
     .btn-lotus{
         display: flex;
         font-size: 1.5em;
+    }
+
+    .section-secondary{
+        flex-wrap: wrap;
+    }
+
+    .section-primary{
+        flex-wrap: wrap;
     }
 
 }
