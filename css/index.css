@@ -317,8 +317,14 @@ body {
         padding: 1em 2.5em;
     }
 
+    .section-primary{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
     .section-secondary{
         flex-wrap: wrap;
+        justify-content: center;
     }
 
     .card-presentation{
@@ -329,30 +335,28 @@ body {
     .card{
         background-color:#a1c5d1;
         padding-top: 2rem;
-        margin: 2rem 4rem;
+        margin: 2rem 2rem;
         border-radius: 6px;
+    }
+
+    .card p{
+        margin-top: 0rem;
+        padding: 0.2rem;   
     }
 
     .card-2{
         background-color:#a1c5d1;
         padding-top: 2rem;
-        margin: 2rem 4rem;
+        margin: 2rem 2rem;
         border-radius: 6px;
     }
 
-    .card p{
-        margin-top: 0rem;   
+    .card-2 p{
+        margin-top: 0rem;
+        padding: 1rem;   
     }
 
-    .section-primary{
-        flex-wrap: wrap;
-        justify-content: center;
-    }
 
-    .section-secondary{
-        flex-wrap: wrap;
-        justify-content: center;
-    }
 
 }
 
