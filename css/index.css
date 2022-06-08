@@ -327,11 +327,21 @@ body {
     }
 
     .card{
-        padding: 0rem;
+        background-color:#a1c5d1;
+        padding-top: 2rem;
+        margin: 2rem 4rem;
+        border-radius: 6px;
+    }
+
+    .card-2{
+        background-color:#a1c5d1;
+        padding-top: 2rem;
+        margin: 2rem 4rem;
+        border-radius: 6px;
     }
 
     .card p{
-        margin-top: 0rem;
+        margin-top: 0rem;   
     }
 
     .section-primary{
