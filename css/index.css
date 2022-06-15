@@ -244,21 +244,21 @@ body {
     font-size: 1.5rem;
 }
 
-/*Inicio Clientes*/
+/*Inicio Producto*/
 
-.card-presentation-clients{
+.card-presentation-products{
     margin-top: 0rem;
     flex-wrap: wrap;
 }
 
-.card-presentation-clients h2{
+.card-presentation-products h2{
     margin: 0rem;
     font-size: 2rem;
     text-align: center;
     padding-top: 0rem;
 }
 
-.card-presentation-clients p{
+.card-presentation-products p{
     margin-top: 0.5em;
     color: #307085;
     text-align: center;
@@ -266,7 +266,7 @@ body {
     margin-bottom: 1.5rem;
 }
 
-.section-secondary-clients{
+.section-secondary-products{
     display: flex;
     justify-content: space-around;
 }
@@ -327,7 +327,7 @@ body {
     color: black;
 }
 
-/*Fin Clientes*/
+/*Fin Producto*/
 
 /*Inicio Footer*/
 
@@ -586,11 +586,11 @@ body {
 
     /*Fin Footer*/
 
-    .section-secondary-clients{
+    .section-secondary-products{
         flex-direction: column;
     }
 
-    .section-secondary-clients img{
+    .section-secondary-products img{
         max-width: 80%;
         margin: 1rem;
     }
@@ -731,11 +731,11 @@ body {
         
     /*Fin Footer*/
         
-    .section-secondary-clients{
+    .section-secondary-products{
         flex-direction: column;
     }
         
-    .section-secondary-clients img{
+    .section-secondary-products img{
         max-width: 80%;
         margin: 1rem;
     }
@@ -848,11 +848,11 @@ body {
         
     /*Fin Footer*/
         
-    .section-secondary-clients{
+    .section-secondary-products{
         flex-direction: column;
     }
         
-    .section-secondary-clients img{
+    .section-secondary-products img{
         max-width: 70%;
         margin: 1rem;
     }
