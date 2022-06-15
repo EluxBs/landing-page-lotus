@@ -305,7 +305,7 @@ body {
 }
 
 .card-3 a:hover{
-    transform: scale(1.25);
+    transform: scale(1);
     opacity: 1;
 }
 
@@ -536,6 +536,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
+    padding: 0rem;
     }
 
     .footer-social-media i{
@@ -684,6 +685,7 @@ body {
         display: flex;
         flex-direction: column;
         align-items: center;
+        padding: 0rem;
     }
         
     .footer-social-media i{
